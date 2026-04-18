@@ -1,7 +1,7 @@
 # ExpChatRemake (Custom Chat System)
 
 # How to install ExpChatRemake
-1. Download rbxm file in [releases](https://github.com/Tplay4/Custom-Chat-System/releases/tag/tag) and setup everything.
+1. Download rbxm file in [releases](https://github.com/Liamsawn/expchatremake/releases/tag/Full%26Lite) and setup everything.
 2. Set 'TextChatService.CreateDefaultTextChannels' to 'false'.
 3. You're done!
 
